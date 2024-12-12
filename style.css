@@ -61,6 +61,7 @@ button{
     text-align: center;
     font-size: 18px;
     margin-top: 20px;
+    color: rgb(45, 233, 170);
 }
 #error{
     color: red;
